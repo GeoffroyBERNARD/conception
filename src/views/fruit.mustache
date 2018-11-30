@@ -1,0 +1,11 @@
+<form method="POST">
+	nom du fruit <input type="text" name="title">
+	prix <input type="number" name="price">
+	<input type="submit" value="Ajouter">
+</form>
+
+{{#fruits}}
+	{{title}} {{price}}€<br>
+{{/fruits}}
+
+
