@@ -11,3 +11,5 @@ Repo for a class TP
 + Lancer docker-compose up
 + Modifier le code (ex : ajouter un espace dans "src/index.js" ) pour que nodemon relance le webserveur pour éviter que le webserveur se lance avant la bdd
 + Ouvrir une fenêtre sur localhost:80
+
+projet réalisé par BERNARD Geoffroy et BRIAND Lucas
